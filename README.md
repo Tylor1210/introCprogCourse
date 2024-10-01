@@ -31,3 +31,13 @@ Goal: Learn to use control flows to apply conditional effects.
 Assignment: Assume guillotine has been assigned a positive integer value. Write an if statement that halves the value of guillotine if its current value is even.
 if ((guillotine % 2) == 0):
     guillotine = (guillotine / 2)
+
+Unit 3.2 Quiz
+Goal: Learn to use the if-else statement to encode mutually exclusive behavior.
+
+Assignment: Assume that the variable year is assigned a positive integer value. Write an if-else statement that assigns to days 366 if year is a leap year, otherwise, it assigns 365 to days.
+
+Note: Assume any year that is divisible by 4 with no remainder is a leap year.
+
+Question
+Assume the variable s has been assigned a string. Write code that displays "stop" if s is equal to "end". Otherwise, display "go".
